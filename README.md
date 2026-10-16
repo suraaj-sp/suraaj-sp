@@ -30,8 +30,3 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    github    : github.com/suraaj-sp
 ```
 
-<p>
-  <a href="mailto:surajspz2001@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/suraj-s-p-556bb23b7">LinkedIn</a> ·
-  <a href="https://github.com/suraaj-sp">GitHub</a>
-</p>
